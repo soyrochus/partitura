@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="aad87bff-0e75-4826-8713-61856f00b530" solutionId="aad87bff-0e75-4826-8713-61856f00b530" resetWebServer="false" name="partitura" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="eb7d5a0a-878c-46d0-980e-724290cdfcbc" />
+  </features>
+</package>
