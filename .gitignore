@@ -1,5 +1,7 @@
 Backup/*
 partitura/bin/*
 partitura/obj/*
+partitura/pkg/*
+partitura/pkgobj/*
 
 
