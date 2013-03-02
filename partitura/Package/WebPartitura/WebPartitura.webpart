@@ -2,13 +2,13 @@
 <webParts>
   <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
     <metaData>
-      <type name="partitura.Package.WebPart1.WebPartitura, $SharePoint.Project.AssemblyFullName$" />
+      <type name="Skitr.partitura.WebPartitura, $SharePoint.Project.AssemblyFullName$" />
       <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
     </metaData>
     <data>
       <properties>
         <property name="Title" type="string">Partitura (WebPart)</property>
-        <property name="Description" type="string">My Web Part</property>
+        <property name="Description" type="string">Partitura is a component to allow "through-the-web" (online) development of Sharepoint client ("App") applications (SHP 2010/2013)</property>
       </properties>
     </data>
   </webPart>
